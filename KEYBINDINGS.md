@@ -128,6 +128,7 @@ Here are all HyDE specific keybindings listed.
 | Keys                                                   | Action            |
 | :----------------------------------------------------- | :---------------- |
 | <kbd>SUPER</kbd> + <kbd>T</kbd>                        | terminal emulator |
+| <kbd>SUPER</kbd> + <kbd>ALT</kbd> + <kbd>T</kbd>       | dropdown terminal |
 | <kbd>SUPER</kbd> + <kbd>E</kbd>                        | file explorer     |
 | <kbd>SUPER</kbd> + <kbd>C</kbd>                        | text editor       |
 | <kbd>SUPER</kbd> + <kbd>B</kbd>                        | web browser       |
@@ -211,6 +212,7 @@ Here are all HyDE specific keybindings listed.
 | <kbd>SUPER</kbd> + <kbd>ALT</kbd> + <kbd>Down</kbd>  | previous waybar layout |
 | <kbd>SUPER</kbd> + <kbd>SHIFT</kbd> + <kbd>R</kbd>   | wallbash mode selector |
 | <kbd>SUPER</kbd> + <kbd>SHIFT</kbd> + <kbd>T</kbd>   | select a theme         |
+| <kbd>SUPER</kbd> + <kbd>SHIFT</kbd> + <kbd>Y</kbd>   | select animations      |
 
 <!-- ## <a id=workspaces>Workspaces</a> -->
 
